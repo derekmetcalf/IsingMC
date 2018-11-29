@@ -1,0 +1,2 @@
+    The fluctuations of an ensemble are computed by the get_fluctuations routine, which takes the mean properties and the mean of the square properties as input and returns fluctuation values.
+    Near the critical point, fluctuations grow considerably and have a larger variance, which is a result of the stochastic nature of the MC simulation. The heat capacities at beta_J = 0.5 and beta_J = 0.55 are 0.4 and 0.55, respectively, for the analytic solution and somewhat higher for the MC simulated values.
